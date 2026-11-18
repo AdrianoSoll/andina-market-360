@@ -21,3 +21,4 @@ Metas: importar 12 ventas, calcular totales por sede, aprobar pruebas y mostrar 
 | Totales por sede | Lima 814, Ica 555, Arequipa 476 | Desarrollador | python src/resumen.py |
 | Pruebas unitarias | 4 pruebas correctas | Revisor QA | python -m unittest discover -s tests -v |
 | Resumen web | Dashboard activo | Desarrollador Web | docs/data/resumen.json |
+Pregunta adicional para gerencia: ¿Cuál es el margen operativo proyectado por sede?
