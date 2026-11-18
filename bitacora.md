@@ -13,3 +13,4 @@ Nota: Git no guarda un commit automáticamente al escribir un archivo.
 
 ## 4. Ruta del repositorio local (CAP06_E03)
 - Directorio de trabajo: /c/Users/ADRIAN/Desktop/Ciclo Agosto 2026/Herramientas de Desarrollo/Avance 3/andina-market-360
+Nota de control 1
