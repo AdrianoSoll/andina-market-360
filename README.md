@@ -1,4 +1,4 @@
-# Andina Market 360
+# Andina Market 360 - Reporte Ejecutivo (Alternativa A)
 ## Problema Empresarial
 Objetivo comercial: Consolidar automáticamente las ventas de Lima, Ica y Arequipa sin editar informes manualmente para evitar errores de cálculo.
 ## Funcionalidades
