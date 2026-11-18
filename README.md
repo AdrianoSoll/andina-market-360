@@ -15,3 +15,4 @@ Objetivo comercial: Consolidar automáticamente las ventas de Lima, Ica y Arequi
     python src/resumen.py
     python src/resumen.py --json docs/data/resumen.json
     python -m unittest discover -s tests -v
+Propósito: Facilitar la revisión de ventas por sede mediante un tablero estático.
