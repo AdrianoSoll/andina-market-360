@@ -17,3 +17,4 @@ Objetivo comercial: Consolidar automáticamente las ventas de Lima, Ica y Arequi
     python -m unittest discover -s tests -v
 Propósito: Facilitar la revisión de ventas por sede mediante un tablero estático.
 Alcance del informe: Mostrará el resumen de ventas desglosado por cada sede (Lima, Ica y Arequipa).
+Actualización remota: Sincronización verificada desde el repositorio central.
