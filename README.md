@@ -19,4 +19,3 @@ Propósito: Facilitar la revisión de ventas por sede mediante un tablero estát
 Alcance del informe: Mostrará el resumen de ventas desglosado por cada sede (Lima, Ica y Arequipa).
 Actualización remota: Sincronización verificada desde el repositorio central.
 Segunda actualización remota: Pendiente de inspección con git fetch.
-Frase temporal de laboratorio para revertir.
