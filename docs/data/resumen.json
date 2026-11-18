@@ -1,0 +1,9 @@
+{
+  "operaciones": 12,
+  "sedes": {
+    "Lima": 814.0,
+    "Ica": 555.0,
+    "Arequipa": 476.0
+  },
+  "total": 1845.0
+}

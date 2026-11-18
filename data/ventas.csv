@@ -1,0 +1,13 @@
+id,fecha,sede,producto,cantidad,total
+1,2026-01-05,Lima,Arroz Extra 5kg,10,200.00
+2,2026-01-06,Lima,Aceite Vegetal 1L,20,214.00
+3,2026-01-08,Lima,Azucar Rubia 5kg,10,150.00
+4,2026-01-10,Lima,Leche Evaporada Pack,10,250.00
+5,2026-01-05,Ica,Arroz Extra 5kg,6,120.00
+6,2026-01-07,Ica,Aceite Vegetal 1L,15,135.00
+7,2026-01-09,Ica,Azucar Rubia 5kg,10,150.00
+8,2026-01-12,Ica,Café Molido 250g,6,150.00
+9,2026-01-06,Arequipa,Arroz Extra 5kg,5,110.00
+10,2026-01-08,Arequipa,Aceite Vegetal 1L,10,116.00
+11,2026-01-11,Arequipa,Azucar Rubia 5kg,8,125.00
+12,2026-01-14,Arequipa,Leche Evaporada Pack,5,125.00
