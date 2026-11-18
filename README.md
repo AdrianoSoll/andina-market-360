@@ -1,5 +1,5 @@
 # Andina Market 360
-## Problema
+## Problema Empresarial
 Objetivo comercial: Consolidar automáticamente las ventas de Lima, Ica y Arequipa sin editar informes manualmente para evitar errores de cálculo.
 ## Funcionalidades
 - Lectura del archivo ficticio data/ventas.csv (12 operaciones).
